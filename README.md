@@ -8,7 +8,6 @@ This repository contains a data engineering solution for AdvertiseX, a digital a
 2. [Usage](#usage)
 3. [Components](#components)
 4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Installation
 To set up the AdvertiseX data engineering solution, follow these steps:
